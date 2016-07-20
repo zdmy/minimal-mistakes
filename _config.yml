@@ -205,7 +205,7 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-#   layouts:
+#   layouts:single
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
