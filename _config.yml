@@ -5,6 +5,19 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+defaults:
+# _posts
+- scope:
+path: ""
+type: posts
+values:
+layout: single
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+
 # Site Settings
 locale                   : "en"
 title                    : "ZDMY@tech"
@@ -63,7 +76,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "ZDMY"
   avatar           : "bio-photo.jpg"
   bio              : "Amazing corporation."
   location         : "Shenzhen"
