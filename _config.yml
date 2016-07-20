@@ -10,7 +10,7 @@
 locale                   : "en"
 title                    : "ZDMY"
 title_separator          : "-"
-name                     : "智道明远"
+name                     : "深圳智道明远科技有限公司"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
