@@ -3,15 +3,21 @@ main:
 
   - title: "News"
     url: /news-archive/
-
+    
   - title: "Categories"
     url: /categories/
-
-  - title: "Pages"
-    url: /page-archive/
-
+    
+  - title: "Products"
+    url: /product-archive/
+    
+  - title: "Community"
+    url: /community/
+    
+  - title: "Software Service"
+    url: /software-service/
+    
   - title: "Contact us"
     url: /contact-us/
-
+  
   - title: "External Link"
-    url: https://reformation.tech
+    url: http://reformation.tech
