@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "ZDMY@tech"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "智道明远"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,8 +65,8 @@ google_ad_slot           :
 author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Amazing corporation."
+  location         : "Shenzhen"
   email            :
   uri              :
   bitbucket        :
