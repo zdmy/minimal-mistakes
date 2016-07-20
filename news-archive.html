@@ -1,0 +1,25 @@
+---
+layout: splash
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+    image: https://static.lingoapp.com/assets/images/homepage/img-hero-lingo-visual-asset-manager%402x%40v5.png
+    overlay_filter: rgba(0, 0, 0, 0.1)
+    caption: "Photo credit: [**Van**](https://reformation.tech)"
+    cta_label: "More Info"
+    cta_url: "https://unsplash.com"
+---
+
+{% include base_path %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+{% include paginator.html %}

@@ -2,7 +2,7 @@
 main:
 
   - title: "News"
-    url: /year-archive/
+    url: /news-archive/
 
   - title: "Categories"
     url: /categories/
@@ -14,4 +14,4 @@ main:
     url: /contact-us/
 
   - title: "External Link"
-    url: https://google.com
+    url: https://reformation.tech
