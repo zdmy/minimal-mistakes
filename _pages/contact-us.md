@@ -17,31 +17,39 @@ header:
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">Infos</h3>
 
 {% include toc icon="gears" title="To know our.." %}
 
-#asdasd
+##asdasd
+
 {:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
+
 {:toc}
 
-#sdfer
+##sdfer
+
 {:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
+
 {:toc}
 
-#werty
+##werty
+
 {:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
+
 {:toc}
 
-#vbvc
+
+##vbvc
+
 {:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
+
 {:toc}
 
