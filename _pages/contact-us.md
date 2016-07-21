@@ -1,8 +1,7 @@
 ---
-title: "Contact Us"
+title: "Contact us"
 layout: single
-author_profile: true
-read_time: true
+author_profile: false
 comments: true
 share: true
 related: true
@@ -22,19 +21,19 @@ header:
 
 {% include toc icon="gears" title="To know our.." %}
 
-#asdasd
-{:toc}
-asfsdfsdfsdfwefwecfsdcdasc
+*	#asdasd
+	{:toc}
+	asfsdfsdfsdfwefwecfsdcdasc
 
-#asdasd
-{:toc}
-asfsdfsdfsdfwefwecfsdcdasc
+*	#asdasd
+	{:toc}
+	asfsdfsdfsdfwefwecfsdcdasc
+	
+*	#asdasd
+	{:toc}
+	asfsdfsdfsdfwefwecfsdcdasc
 
-#asdasd
-{:toc}
-asfsdfsdfsdfwefwecfsdcdasc
-
-#asdasd
-{:toc}
-asfsdfsdfsdfwefwecfsdcdasc
+*	#asdasd
+	{:toc}
+	asfsdfsdfsdfwefwecfsdcdasc
 
