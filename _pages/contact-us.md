@@ -18,7 +18,8 @@ header:
 {% include base_path %}
 
 
-{% include toc icon="gears" title="To know our.." %}
+{% include toc icon="gears" title="To know our.." auto_ids=yes %}
+
 
 ##asdasd
 	
