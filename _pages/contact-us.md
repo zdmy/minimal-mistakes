@@ -20,26 +20,25 @@ header:
 
 {% include toc icon="gears" title="To know our.." auto_ids=yes %}
 
+{:toc}
 
 ##asdasd
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-{:toc}
+
 
 ##sdfer
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-{:toc}
+
 
 ##werty
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-{:toc}
+
 
 
 ##vbvc
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-
-{:toc}
 
