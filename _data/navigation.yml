@@ -4,9 +4,6 @@ main:
   - title: "News"
     url: /news-archive/
     
-  - title: "Categories"
-    url: /categories/
-    
   - title: "Products"
     url: /product-archive/
     
