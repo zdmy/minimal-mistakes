@@ -23,22 +23,18 @@ header:
 {:toc}
 
 ##asdasd
-	
-* asfsdfsdfsdfwefwecfsdcdasc
+asfsdfsdfsdfwefwecfsdcdasc
 
 
 ##sdfer
-	
-* asfsdfsdfsdfwefwecfsdcdasc
+asfsdfsdfsdfwefwecfsdcdasc
 
 
 ##werty
-	
-* asfsdfsdfsdfwefwecfsdcdasc
+asfsdfsdfsdfwefwecfsdcdasc
 
 
 
 ##vbvc
-	
-* asfsdfsdfsdfwefwecfsdcdasc
+asfsdfsdfsdfwefwecfsdcdasc
 
