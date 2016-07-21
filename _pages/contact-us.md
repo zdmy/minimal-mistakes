@@ -23,27 +23,20 @@ header:
 ##asdasd
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-
 {:toc}
 
 ##sdfer
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-
 {:toc}
 
 ##werty
-
-{:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
-
 {:toc}
 
 
 ##vbvc
-
-{:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
 
