@@ -21,16 +21,12 @@ header:
 {% include toc icon="gears" title="To know our.." %}
 
 ##asdasd
-
-{:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
 
 {:toc}
 
 ##sdfer
-
-{:.no_toc}
 	
 * asfsdfsdfsdfwefwecfsdcdasc
 
