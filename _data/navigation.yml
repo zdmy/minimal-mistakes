@@ -11,7 +11,7 @@ main:
     url: /product-archive/
     
   - title: "Community"
-    url: /community.html
+    url: /community/
     
   - title: "Software Service"
     url: /software-service/

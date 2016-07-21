@@ -3,7 +3,7 @@ title: "About us"
 layout: single
 excerpt: "here is some information. Your pixels are in another canvas."
 sitemap: false
-permalink: /about.html
+permalink: /about/
 ---
 
 wow, you found us ! searching for it below.

@@ -1,9 +1,9 @@
 ---
-title: "IRC Channel"
+title: "Our IRC Channel"
 layout: single
 excerpt: "Help you understand our community works."
 sitemap: false
-permalink: /community.html
+permalink: /community/
 ---
 
 ZDMY technologies tread our community with respect and friendly. 
