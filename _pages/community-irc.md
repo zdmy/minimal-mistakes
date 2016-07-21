@@ -10,7 +10,7 @@ ZDMY technologies tread our community with respect and friendly.
 We has an official IRC channel, #zdmy, on the [Freenode](http://freenode.net/) network. Please take a few moments to review the rules and guidelines below before joining the channel.
 
 --------------------------
-##ZDMY IRC Rules and Guidelines
+<h2>ZDMY IRC Rules and Guidelines</h2>
 
 We try to remain as informal as possible but there are some rules and we’d appreciate if you would follow them! Broadly, if you’re friendly, tolerant, and reasonable, you’ll probably go a long way without any specific knowledge of the rules – but for to avoid any doubt and prevent any misunderstandings, here they are.
 
