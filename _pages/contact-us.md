@@ -21,19 +21,27 @@ header:
 
 {% include toc icon="gears" title="To know our.." %}
 
-*	#asdasd
-	{:toc}
-	asfsdfsdfsdfwefwecfsdcdasc
-
-*	#asdasd
-	{:toc}
-	asfsdfsdfsdfwefwecfsdcdasc
+#asdasd
+{:.no_toc}
 	
-*	#asdasd
-	{:toc}
-	asfsdfsdfsdfwefwecfsdcdasc
+* asfsdfsdfsdfwefwecfsdcdasc
+{:toc}
 
-*	#asdasd
-	{:toc}
-	asfsdfsdfsdfwefwecfsdcdasc
+#sdfer
+{:.no_toc}
+	
+* asfsdfsdfsdfwefwecfsdcdasc
+{:toc}
+
+#werty
+{:.no_toc}
+	
+* asfsdfsdfsdfwefwecfsdcdasc
+{:toc}
+
+#vbvc
+{:.no_toc}
+	
+* asfsdfsdfsdfwefwecfsdcdasc
+{:toc}
 
