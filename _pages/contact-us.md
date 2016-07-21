@@ -17,24 +17,26 @@ header:
 
 {% include base_path %}
 
-
-{% include toc icon="gears" title="To know our.." auto_ids=yes %}
+{% include toc %}
 
 {:toc}
 
-##asdasd
+
+#asdasd
+
 asfsdfsdfsdfwefwecfsdcdasc
 
 
-##sdfer
+#sdfer
+
 asfsdfsdfsdfwefwecfsdcdasc
 
 
-##werty
+#werty
+
 asfsdfsdfsdfwefwecfsdcdasc
 
 
-
-##vbvc
+#vbvc
 asfsdfsdfsdfwefwecfsdcdasc
 
