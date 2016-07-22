@@ -1,7 +1,10 @@
 ---
 title: "Our IRC Channel"
 layout: single
-excerpt: "Help you understand our community works."
+author_profile: false
+share: true
+related: true
+excerpt: "Help you understand our community works.should display a **header with an overlay image**, if the theme supports it."
 sitemap: false
 permalink: /community/
 header:
