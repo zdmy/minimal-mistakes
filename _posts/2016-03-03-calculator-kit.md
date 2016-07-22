@@ -1,17 +1,16 @@
 ---
 title: "Calculator Kit"
 layout: single
-excerpt: "really some happiness."
+excerpt: "A powerful calculator Kit.really some work."
 sitemap: false
 ---
 # Calculator Kit
 
 Calculator Kit is a flexible Calculator Software Kit in Java. Perfect for your personal life, work, or server. As we believes implies --- styling is purposely lite and cool to be enhanced and could customized by you.
 
-[![Minimal Mistakes live preview][1]]
+![Minimal Mistakes live preview][1]
 
 [1]: https://ooo.0o0.ooo/2016/07/22/5791eefe4f28c.png
-[2]: images/mm-browser-mockups.png (live preview)
 
 The theme includes responsive layouts that look great on mobile and desktop browsers.
 
