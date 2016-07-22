@@ -5,14 +5,13 @@ author_profile: false
 comments: true
 share: true
 related: true
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "To get our supports, join our team or build partnerships."
 permalink: /contact-us/
 header:
     image: https://ooo.0o0.ooo/2016/07/22/5791e30a498f6.jpg
+    overlay_image: https://ooo.0o0.ooo/2016/07/22/5791e30a498f6.jpg
     overlay_filter: rgba(0, 0, 0, 0.1)
     caption: "Photo credit: [**Van**](https://reformation.tech)"
-    cta_label: "More Info"
-    cta_url: "https://reformation.tech"
 ---
 
 {% include base_path %}
