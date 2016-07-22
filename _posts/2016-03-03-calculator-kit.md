@@ -3,7 +3,7 @@ title: "Calculator Kit"
 layout: single
 excerpt: "A powerful calculator Kit.really some work."
 sitemap: false
-permalink: /image/calculator-kit/
+permalink: /images/calculator-kit/
 ---
 # Calculator Kit
 
