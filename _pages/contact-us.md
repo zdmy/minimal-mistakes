@@ -12,7 +12,7 @@ header:
     overlay_filter: rgba(0, 0, 0, 0.1)
     caption: "Photo credit: [**Van**](https://reformation.tech)"
     cta_label: "More Info"
-    cta_url: "https://unsplash.com"
+    cta_url: "https://reformation.tech"
 ---
 
 {% include base_path %}

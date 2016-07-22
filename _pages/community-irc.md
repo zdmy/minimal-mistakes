@@ -4,6 +4,12 @@ layout: single
 excerpt: "Help you understand our community works."
 sitemap: false
 permalink: /community/
+header:
+    image: https://ooo.0o0.ooo/2016/07/22/5791e30a352a5.jpg
+    overlay_filter: rgba(0, 0, 0, 0.1)
+    caption: "Photo credit: [**Van**](https://reformation.tech)"
+    cta_label: "More Info"
+    cta_url: "https://reformation.tech"
 ---
 
 ZDMY technologies tread our community with respect and friendly. 
