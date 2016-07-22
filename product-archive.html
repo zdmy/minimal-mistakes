@@ -12,6 +12,7 @@ header:
     caption: "Photo credit: [**Van**](https://reformation.tech)"
     cta_label: "More Info"
     cta_url: "https://unsplash.com"
+
 gallery:
 - url: unsplash-gallery-image-1.jpg
 image_path: unsplash-gallery-image-1-th.jpg
@@ -25,6 +26,7 @@ title: "Image 2 title caption"
 image_path: unsplash-gallery-image-3-th.jpg
 alt: "placeholder image 3"
 title: "Image 3 title caption"
+
 ---
 
 {% include base_path %}
@@ -32,3 +34,5 @@ title: "Image 3 title caption"
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+{% include paginator.html %}
