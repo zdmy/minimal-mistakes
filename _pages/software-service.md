@@ -1,15 +1,15 @@
 ---
-title: "software-service"
+title: "Software Service"
 layout: single
 excerpt: "understand our software-service."
 sitemap: false
 permalink: /software-service/
 gallery:
-  - url: /red-fee-kit/
+  - url: red-fee-kit
     image_path: https://ooo.0o0.ooo/2016/07/22/5791f554c1bc4.png
     alt: "placeholder image 1"
     title: "RedFee Kit"
-  - url: /calculator-kit/
+  - url: calculator-kit
     image_path: https://ooo.0o0.ooo/2016/07/22/5791eefe4f28c.png
     alt: "placeholder image 2"
     title: "Calculator Kit"
@@ -18,6 +18,5 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Click on some servers **interested you**." %}
 
-That's it , you can understand now.
