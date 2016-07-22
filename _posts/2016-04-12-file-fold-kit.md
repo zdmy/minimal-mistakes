@@ -3,7 +3,7 @@ title: "File Fold Kit"
 layout: single
 excerpt: "A powerful listing file and fold Kit."
 sitemap: false
-permalink: /images/red-fee-kit/
+permalink: /images/file-fold-kit/
 ---
 
 File Fold Kit is a listing file and fold Software Kit in Java & Swift. It's so powerful that suitable for your personal daily life, work. Easily install on front-end and Server side --- one line code and could customized by you.
