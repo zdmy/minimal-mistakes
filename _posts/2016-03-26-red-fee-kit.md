@@ -3,6 +3,7 @@ title: "RedFee Kit"
 layout: single
 excerpt: "A powerful calculator Kit.really some work."
 sitemap: false
+permalink: /images/red-fee-kit/
 ---
 # RedFee Kit
 
