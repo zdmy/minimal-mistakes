@@ -18,5 +18,5 @@ gallery:
     alt: "placeholder image 3"
     title: "Image 3 title caption"
 ---
-{% include gallery caption="Click on some servers **interested you**." %}
+{% include gallery caption="Click on some Services **interested you**." %}
 
