@@ -5,14 +5,14 @@ excerpt: "understand our software-service."
 sitemap: false
 permalink: /software-service/
 gallery:
-  - url: unsplash-gallery-image-1.jpg
-    image_path: unsplash-gallery-image-1-th.jpg
+  - url: /red-fee-kit/
+    image_path: https://ooo.0o0.ooo/2016/07/22/5791f554c1bc4.png
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: unsplash-gallery-image-2.jpg
-    image_path: unsplash-gallery-image-2-th.jpg
+    title: "RedFee Kit"
+  - url: /calculator-kit/
+    image_path: https://ooo.0o0.ooo/2016/07/22/5791eefe4f28c.png
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Calculator Kit"
   - url: unsplash-gallery-image-3.jpg
     image_path: unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
