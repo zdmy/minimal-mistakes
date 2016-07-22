@@ -13,10 +13,10 @@ gallery:
     image_path: https://ooo.0o0.ooo/2016/07/22/5791eefe4f28c.png
     alt: "placeholder image 2"
     title: "Calculator Kit"
-  - url: unsplash-gallery-image-3.jpg
-    image_path: unsplash-gallery-image-3-th.jpg
+  - url: file-fold-kit
+    image_path: https://ooo.0o0.ooo/2016/07/22/5791ff22af2ca.png
     alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "File Fold Kit"
 ---
 {% include gallery caption="Click on some Services **interested you**." %}
 
