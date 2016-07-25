@@ -4,6 +4,7 @@ layout: single
 excerpt: "A powerful calculator Kit.really some work."
 sitemap: false
 permalink: /images/red-fee-kit/
+date: 2016-03-26T18:38:52+00:00
 header:
   teaser: https://ooo.0o0.ooo/2016/07/22/5791f554c1bc4.png
 ---
