@@ -4,6 +4,8 @@ layout: single
 excerpt: "A powerful calculator Kit.really some work."
 sitemap: false
 permalink: /images/red-fee-kit/
+header:
+  teaser: https://ooo.0o0.ooo/2016/07/22/5791f554c1bc4.png
 ---
 
 RedFee Kit is a chinese money catcher Software Kit in Java & Swift. Suitable for your personal daily life, work. Easily install on front-end and Server side --- one line code and could customized by you.
