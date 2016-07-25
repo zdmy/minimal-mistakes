@@ -4,6 +4,8 @@ layout: single
 excerpt: "A powerful calculator Kit.really some work."
 sitemap: false
 permalink: /images/calculator-kit/
+header:
+  teaser: https://ooo.0o0.ooo/2016/07/22/5791eefe4f28c.png
 ---
 
 Calculator Kit is a flexible Calculator Software Kit in Java. Perfect for your personal life, work, or server. As we believes implies --- styling is purposely lite and cool to be enhanced and could customized by you.
