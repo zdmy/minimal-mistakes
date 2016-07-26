@@ -34,6 +34,8 @@ Shenzhen ZDMY Technologies Co.,Ltd
 
 # Address
 
+![](http://api.map.baidu.com/staticimage?width=400&height=300&center=113.926981,22.500998&zoom=18)
+
 HaiXiang Plaza Room.315
 
 Shenzhen Nanshan
@@ -41,6 +43,9 @@ Shenzhen Nanshan
 Guangdong
 
 518001
+
+
+
 
 # Customer Service
 
@@ -54,8 +59,4 @@ Peng Yang
 
 Corporation's Initial Agent for Service of Process/Incorporator
 
-
-# Friend Links
-
-[ a very Friendy Link](community)
 
