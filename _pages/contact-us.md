@@ -28,9 +28,8 @@ header:
 
 Shenzhen ZDMY Technologies Co.,Ltd
 
-fanyibo@zdmytech.com
+深圳智道明远科技有限公司
 
-+86 18622187332
 
 
 # Address
@@ -43,6 +42,11 @@ Guangdong
 
 518001
 
+# Customer Service
+
+fanyibo@zdmytech.com
+
++86 18622187332
 
 # Members
 
@@ -53,5 +57,5 @@ Corporation's Initial Agent for Service of Process/Incorporator
 
 # Friend Links
 
-[ a very Friendy Link](apple.com)
+[ a very Friendy Link](community)
 
