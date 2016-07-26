@@ -34,7 +34,7 @@ Shenzhen ZDMY Technologies Co.,Ltd
 
 # Address
 
-![](http://api.map.baidu.com/staticimage?width=400&height=300&center=113.926981,22.500998&zoom=18)
+![map](http://api.map.baidu.com/staticimage?width=400&height=300&center=113.926667,22.500422&zoom=18&markers=113.926676,22.500397&markerStyles=l,)
 
 HaiXiang Plaza Room.315
 
